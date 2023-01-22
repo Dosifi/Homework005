@@ -1,0 +1,15 @@
+C:\Users\vpfed\OneDrive\Desktop\Homework005\Task037\obj\Debug\net7.0\Task037.csproj.AssemblyReference.cache
+C:\Users\vpfed\OneDrive\Desktop\Homework005\Task037\obj\Debug\net7.0\Task037.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpfed\OneDrive\Desktop\Homework005\Task037\obj\Debug\net7.0\Task037.AssemblyInfoInputs.cache
+C:\Users\vpfed\OneDrive\Desktop\Homework005\Task037\obj\Debug\net7.0\Task037.AssemblyInfo.cs
+C:\Users\vpfed\OneDrive\Desktop\Homework005\Task037\obj\Debug\net7.0\Task037.csproj.CoreCompileInputs.cache
+C:\Users\vpfed\OneDrive\Desktop\Homework005\Task037\bin\Debug\net7.0\Task037.exe
+C:\Users\vpfed\OneDrive\Desktop\Homework005\Task037\bin\Debug\net7.0\Task037.deps.json
+C:\Users\vpfed\OneDrive\Desktop\Homework005\Task037\bin\Debug\net7.0\Task037.runtimeconfig.json
+C:\Users\vpfed\OneDrive\Desktop\Homework005\Task037\bin\Debug\net7.0\Task037.dll
+C:\Users\vpfed\OneDrive\Desktop\Homework005\Task037\bin\Debug\net7.0\Task037.pdb
+C:\Users\vpfed\OneDrive\Desktop\Homework005\Task037\obj\Debug\net7.0\Task037.dll
+C:\Users\vpfed\OneDrive\Desktop\Homework005\Task037\obj\Debug\net7.0\refint\Task037.dll
+C:\Users\vpfed\OneDrive\Desktop\Homework005\Task037\obj\Debug\net7.0\Task037.pdb
+C:\Users\vpfed\OneDrive\Desktop\Homework005\Task037\obj\Debug\net7.0\Task037.genruntimeconfig.cache
+C:\Users\vpfed\OneDrive\Desktop\Homework005\Task037\obj\Debug\net7.0\ref\Task037.dll
